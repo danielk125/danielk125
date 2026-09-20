@@ -31,8 +31,8 @@ I've also dabbled in ⚡️ electronics and PCB design ⚡️ as a part of North
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="DashboardImage.JPG" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR26 Dashboard</em></td>
-      <td align="center"><img src="STAB.png" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR27 Steering Angle Sensor Board</em></td>
+      <td align="center"><img src="DashboardImage.JPG" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR26 Dashboard - rpi cm4, mcp2515, internal dashbox harness decluttering</em></td>
+      <td align="center"><img src="STAB.png" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR27 Steering Angle Sensor Board - stm32L552, aeat9922</em></td>
     </tr>
   </table>
 </div>
