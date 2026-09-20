@@ -14,15 +14,13 @@
   </a>
 </div>
 
----
-
 ### About me
 
-I'm a senior at 🟣 Northwestern University ⚪️ studying computer engineering 👨‍💻. I'm interested in embedded systems and low-level application development, specifically in C++ or C. I'm also the data aqcuisition lead for Northwestern Formula Racing 🏎️. Check out some of my work 😁:
+I'm a senior at 🟣 Northwestern University ⚪️ studying computer engineering 👨‍💻. I'm interested in embedded systems and application development, specifically in C++ or C. I'm also the data aqcuisition lead for Northwestern Formula Racing 🏎️. Check out some of my work 😁:
 
-* [NFR CAN Library](https://github.com/danielk125/nfr-can-library) - custom c++ library for interfacing with CAN controllers
-* [NFR Dashboard Application](https://github.com/NU-Formula-Racing/daq-dash-26) - c++ application for car dashboard developed on raspberry pi cm4
-* [Bird Sanctuary Plant Tracker](https://github.com/kev1n/BIRD-plant-tracker) - web application for tracking sanctuary plants over time
+* 🚌 [NFR CAN Library](https://github.com/danielk125/nfr-can-library) - custom c++ library for interfacing with CAN controllers
+* 📺 [NFR Dashboard Application](https://github.com/NU-Formula-Racing/daq-dash-26) - c++ application for car dashboard developed on raspberry pi cm4
+* 🌳 [Bird Sanctuary Plant Tracker](https://github.com/kev1n/BIRD-plant-tracker) - web application for tracking sanctuary plants over time
 
 ---
 
@@ -33,10 +31,23 @@ I've also dabbled in ⚡️ electronics and PCB design ⚡️ as a part of North
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="IMG_4057.JPG" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR26 Dashboard</em></td>
+      <td align="center"><img src="DashboardImage.JPG" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR26 Dashboard</em></td>
       <td align="center"><img src="STAB.png" width="100%" style="object-fit: cover; height: 200px; object-position: center 65%;"><br><em>NFR27 Steering Angle Sensor Board</em></td>
     </tr>
   </table>
+</div>
+
+---
+
+### Skills and Technologies
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,cmake,raspberrypi&theme=dark"/>
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 </div>
 
 <!--
