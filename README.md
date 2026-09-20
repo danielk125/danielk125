@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm a senior at 🟣 Northwestern University ⚪️ studying computer engineering 👨‍💻. I'm interested in embedded systems and application development, specifically in C++ or C. I'm also the data aqcuisition lead for Northwestern Formula Racing 🏎️. Check out some of my work 😁:
+I'm a senior at 🟣 Northwestern University ⚪️ studying computer engineering 👨‍💻. I'm interested in embedded systems and application development, specifically in C++ or C. I'm also the data acquisition lead for Northwestern Formula Racing 🏎️. Check out some of my work 😁:
 
 * 🚌 [NFR CAN Library](https://github.com/danielk125/nfr-can-library) - custom c++ library for interfacing with CAN controllers
 * 📺 [NFR Dashboard Application](https://github.com/NU-Formula-Racing/daq-dash-26) - c++ application for car dashboard developed on raspberry pi cm4
