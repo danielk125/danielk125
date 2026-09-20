@@ -1,6 +1,6 @@
 <div align="center"> 
     <div align="center">
-        <img src="DSC_0873.jpg" alt="Description" width="100%" style="object-fit: cover; height: 300px; object-position: center 80%;">
+        <img src="NFR26withbackdrop.jpg" alt="NFR26 and chicago">
     </div>
 
   <h1 align="center"> Hi, I'm Daniel! 👋 </h1>
